@@ -1,0 +1,15 @@
+C:\Users\lcoll\RiderProjects\WebSockets-C-\obj\Debug\net8.0\WebSockets-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoll\RiderProjects\WebSockets-C-\obj\Debug\net8.0\WebSockets-C-.AssemblyInfoInputs.cache
+C:\Users\lcoll\RiderProjects\WebSockets-C-\obj\Debug\net8.0\WebSockets-C-.AssemblyInfo.cs
+C:\Users\lcoll\RiderProjects\WebSockets-C-\obj\Debug\net8.0\WebSockets-C-.csproj.CoreCompileInputs.cache
+C:\Users\lcoll\RiderProjects\WebSockets-C-\obj\Debug\net8.0\WebSockets-C-.sourcelink.json
+C:\Users\lcoll\RiderProjects\WebSockets-C-\bin\Debug\net8.0\WebSockets-C-.exe
+C:\Users\lcoll\RiderProjects\WebSockets-C-\bin\Debug\net8.0\WebSockets-C-.deps.json
+C:\Users\lcoll\RiderProjects\WebSockets-C-\bin\Debug\net8.0\WebSockets-C-.runtimeconfig.json
+C:\Users\lcoll\RiderProjects\WebSockets-C-\bin\Debug\net8.0\WebSockets-C-.dll
+C:\Users\lcoll\RiderProjects\WebSockets-C-\bin\Debug\net8.0\WebSockets-C-.pdb
+C:\Users\lcoll\RiderProjects\WebSockets-C-\obj\Debug\net8.0\WebSockets-C-.dll
+C:\Users\lcoll\RiderProjects\WebSockets-C-\obj\Debug\net8.0\refint\WebSockets-C-.dll
+C:\Users\lcoll\RiderProjects\WebSockets-C-\obj\Debug\net8.0\WebSockets-C-.pdb
+C:\Users\lcoll\RiderProjects\WebSockets-C-\obj\Debug\net8.0\WebSockets-C-.genruntimeconfig.cache
+C:\Users\lcoll\RiderProjects\WebSockets-C-\obj\Debug\net8.0\ref\WebSockets-C-.dll
